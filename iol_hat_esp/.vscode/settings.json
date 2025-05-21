@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "iolink_max14819_pl.h": "c",
+        "iolink.h": "c",
+        "compare": "c",
+        "type_traits": "c",
+        "cmath": "c",
+        "limits": "c",
+        "new": "c"
+    }
+}
